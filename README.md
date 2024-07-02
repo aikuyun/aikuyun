@@ -2,10 +2,9 @@
 
 <h3 align="center">I am currently working in Shanghai as a big data developer.</h3>
 
-| :pencil2: | :video_game: | :book: |:clapper:  |
-| --- | --- | --- | --- |
-| [Blogs](https://itgoyo.github.io/) |[Games](https://itgoyo.github.io/games/)  | [Books](https://itgoyo.github.io/books/) | [Movies](https://itgoyo.github.io/movies/) |
-
+| :pencil2: | :airplane: |
+| --- | --- | 
+| [HomaPage](https://cuteximi.com/) |[好用的梯子](http://www.gotomony.com/register?aff=9XU85S) |
 
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=aikuyun&show_icons=true&locale=en" alt="aikuyun" /></p>
