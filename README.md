@@ -4,7 +4,7 @@
 
 - 💻 Currently working in Shanghai, China
 - 📫 How to reach me: aikuyun.tsl@gmail.com
-- 📡 You may like My [Website](https://bigdata1979.cn/)
+- 📡 You may like My [Website](https://bigdata1970.cn/)
 - 🏄‍♂️ [稳定、快速的梯子](http://www.gotomony.com/register?aff=9XU85S)
 
 ## About My Github
